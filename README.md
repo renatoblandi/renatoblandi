@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I’m Renato 👋
 
-<!--
-**renatoblandi/renatoblandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science and Machine Learning student in Canada building a career towards *Data Engineering*.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m working with
+
+- Python (Pandas, data analysis, scripting)  
+- SQL (aggregations, data transformation)  
+- Databases and data modeling fundamentals
+- Learning about ETL, data pipelines, and data warehousing  
+
+---
+
+## What you’ll find here
+
+- Data analysis and exploration projects  
+- SQL practice and database-focused work  
+- Small data pipeline experiments  
+- Coursework and personal learning projects  
+
+---
+
+## Career direction
+
+I’m building strong foundations in data and aiming to grow into a Data Engineering or Analytics Engineering role in the future.
+
+---
+
+## Fun Fact
+
+I'm obsessed with planes! ✈️
