@@ -2,8 +2,6 @@
 
 I'm a Data Science and Machine Learning student in Canada building a career towards *Data Engineering*.
 
----
-
 ## What I’m working with
 
 - Python (Pandas, data analysis, scripting)  
