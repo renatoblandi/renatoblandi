@@ -11,8 +11,6 @@ I'm a Data Science and Machine Learning student in Canada building a career towa
 - Databases and data modeling fundamentals
 - Learning about ETL, data pipelines, and data warehousing  
 
----
-
 ## What you’ll find here
 
 - Data analysis and exploration projects  
@@ -20,13 +18,9 @@ I'm a Data Science and Machine Learning student in Canada building a career towa
 - Small data pipeline experiments  
 - Coursework and personal learning projects  
 
----
-
 ## Career direction
 
 I’m building strong foundations in data and aiming to grow into a Data Engineering or Analytics Engineering role in the future.
-
----
 
 ## Fun Fact
 
